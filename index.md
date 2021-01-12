@@ -22,8 +22,22 @@ Framework: PyTorch, OpenCV, etc.
 
 ### Publications
 
-- **Research on Low-Quality Finger Vein Image Recognition Algorithm.**
+**Research on Low-Quality Finger Vein Image Recognition Algorithm.**
 
 Jianxian Cai, Xiang Wang, **Xiangheng Jiang**, Shuangshuang Gao, Jin Peng.
 
 _International Conference on Smart Multimedia 2019 (ICSM’2019)_  \[accept]
+
+
+### Awards
+
+- \[2016] Undergraduate Physical Experiment Competition of Beijing, Second Prize.
+- \[2017 and 2018] International Underwater Robot Competition, Championship.
+- \[2018] National College Student Intelligent Interconnection Innovation Competition, Second Prize.
+- \[2018] China Robotics Competition, First Prize.
+- \[2019] Hebei "Challenge Cup" Competition, Second Prize.
+
+
+
+
+
