@@ -10,11 +10,17 @@ My research interests include Graph Neural Network and Intelligent Transportatio
 
 In my daily life, I like to play badminton and swimming.
 
+
 ### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Programming Language: Python, C, C++, etc.
+Hardware: 89C51 MCU, STM32 MCU, Raspberry Pi, Altium Designer, etc.
+Framework: PyTorch, OpenCV, etc.
 
-```markdown
+### Publications
+
+
+
 Syntax highlighted code block
 
 # Header 1
@@ -30,7 +36,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
