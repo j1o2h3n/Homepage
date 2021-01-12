@@ -1,4 +1,4 @@
-# Xiangheng Jiang's Homepage
+# Xiangheng Jiang
 
 - Email: jiangxiangheng\[at]gmail\[dot]com
 - Major: Control Science and Engineering
