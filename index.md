@@ -14,8 +14,11 @@ In my daily life, I like to play badminton and swimming.
 ### Skills
 
 Programming Language: Python, C, C++, etc.
+
 Hardware: 89C51 MCU, STM32 MCU, Raspberry Pi, Altium Designer, etc.
+
 Framework: PyTorch, OpenCV, etc.
+
 
 ### Publications
 
