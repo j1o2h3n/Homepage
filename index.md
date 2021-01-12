@@ -22,37 +22,8 @@ Framework: PyTorch, OpenCV, etc.
 
 ### Publications
 
-**Research on Low-Quality Finger Vein Image Recognition Algorithm.**
+-`**Research on Low-Quality Finger Vein Image Recognition Algorithm.**`
 
 Jianxian Cai, Xiang Wang, **Xiangheng Jiang**, Shuangshuang Gao, Jin Peng.
 
-_International Conference on Smart Multimedia 2019 (ICSM’2019)_ *accept*
-
-
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j1o2h3n/jiangxiangheng/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_International Conference on Smart Multimedia 2019 (ICSM’2019)_  \[accept]
