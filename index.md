@@ -1,6 +1,6 @@
 # Xiangheng Jiang's Homepage
 
-- Email: jiangxiangheng@gmail.com
+- Email: jiangxiangheng\[at]gmail\[dot]com
 - Major: Control Science and Engineering
 
 ## About Me
@@ -36,7 +36,7 @@ _International Conference on Smart Multimedia 2019 (ICSM’2019)_  \[accept]
 
 - \[2016] Undergraduate Physical Experiment Competition of Beijing, Second Prize.
 - \[2017 and 2018] International Underwater Robot Competition, Championship.
-- \[2018] National College Student Intelligent Interconnection Innovation Competition, Second Prize.
+- \[2018] National Undergraduate Intelligent Interconnection Innovation Competition, Second Prize.
 - \[2018] China Robotics Competition, First Prize.
 - \[2019] Hebei "Challenge Cup" Competition, Second Prize.
 
