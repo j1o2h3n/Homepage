@@ -24,9 +24,9 @@ Framework: PyTorch, OpenCV, etc.
 
 **Research on Low-Quality Finger Vein Image Recognition Algorithm.**
 
-Jianxian Cai, Xiang Wang, _**Xiangheng Jiang**_, Shuangshuang Gao, Jin Peng.
+Jianxian Cai, Xiang Wang, **Xiangheng Jiang**, Shuangshuang Gao, Jin Peng.
 
-International Conference on Smart Multimedia 2019 (ICSM’2019)
+_International Conference on Smart Multimedia 2019 (ICSM’2019)_ *accept*
 
 
 
