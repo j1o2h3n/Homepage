@@ -22,7 +22,7 @@ Framework: PyTorch, OpenCV, etc.
 
 ### Publications
 
--**Research on Low-Quality Finger Vein Image Recognition Algorithm.**
+- **Research on Low-Quality Finger Vein Image Recognition Algorithm.**
 
 Jianxian Cai, Xiang Wang, **Xiangheng Jiang**, Shuangshuang Gao, Jin Peng.
 
