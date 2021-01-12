@@ -1,4 +1,7 @@
-# Welcome to Xiangheng Jiang's Homepage
+# Xiangheng Jiang's Homepage
+
+- Email: jiangxiangheng@gmail.com
+- Major: Control Science and Engineering
 
 ## About Me
 
