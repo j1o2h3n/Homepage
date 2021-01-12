@@ -4,6 +4,7 @@
 - Major: Control Science and Engineering
 
 
+
 ***
 ## About Me
 
@@ -14,6 +15,7 @@ Prior to that, I got my bachelor s degree from the School of Electronic Science 
 My research interests include Graph Neural Network and Intelligent Transportation.
 
 In my daily life, I like to play badminton and swimming.
+
 
 
 ***
@@ -28,17 +30,18 @@ Framework: PyTorch, OpenCV, etc.
 
 ***
 ## Publications
-
-**Research on Low-Quality Finger Vein Image Recognition Algorithm.**
-
+**Research on Low-Quality Finger Vein Image Recognition Algorithm**
+=
 Jianxian Cai, Xiang Wang, **Xiangheng Jiang**, Shuangshuang Gao, Jin Peng.
+_International Conference on Smart Multimedia 2019 (ICSM-2019)_  \[accept]
 
-_International Conference on Smart Multimedia 2019 (ICSM’2019)_  \[accept]
+**Dynamic Dual Spatial-Temporal Graph Convolution Network for Traffic Prediction**
+=
+_30th International Joint Conference on Artificial Intelligence (IJCAI-2021)_  \[wait]
 
 
 ***
 ## Awards
-
 - \[2016] Undergraduate Physical Experiment Competition of Beijing, Second Prize.
 - \[2017 and 2018] International Underwater Robot Competition, Championship.
 - \[2018] National Undergraduate Intelligent Interconnection Innovation Competition, Second Prize.
