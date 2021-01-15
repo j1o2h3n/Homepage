@@ -8,7 +8,7 @@
 ***
 ## About Me
 
-I am a second-year M.S. student in the Faculty of Information Technology, Beijing University of Technology (BJUT). Currently I am a member of Beijing Municipal Key Laboratory of Multimedia and Intelligent Software Technology under the supervision of Prof. Yanfeng Sun and Prof. Yongli Hu.
+I am a second-year M.S. student in the Beijing Institute of Artificial Intelligence, Faculty of Information Technology, Beijing University of Technology (BJUT). Currently I am a member of Beijing Key Laboratory of Multimedia and Intelligent Software Technology under the supervision of Prof. Yanfeng Sun and Prof. Yongli Hu.
 
 Prior to that, I got my bachelor s degree from the School of Electronic Science and Control Engineering, Institute of Disaster Prevention, in 2019.
 
