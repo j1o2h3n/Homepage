@@ -42,7 +42,7 @@ Framework: PyTorch, OpenCV, etc.
 
 &nbsp; Yanfeng Sun, **Xiangheng Jiang**, Yongli Hu, Kan Guo, Boyue Wang, Junbin Gao, Baocai Yin.
 
-&nbsp; _30th International Joint Conference on Artificial Intelligence (IJCAI-2021)_  \[wait]
+&nbsp; _30th International Joint Conference on Artificial Intelligence (IJCAI-2021)_  \[under review]
 
 
 ***
