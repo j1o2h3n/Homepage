@@ -5,8 +5,6 @@
 --> 
 
 
-
-Here are some ideas to get you started:
 - 🔭 I’m currently working for PBC
 - 🌱 I’m currently an algorithm and development engineer 
 - 📫 jiangxiangheng[at]gmail[dot]com
