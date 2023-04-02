@@ -9,9 +9,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently an algorithm and development engineer 
 - 📫 How to reach me: jiangxiangheng[at]gmail[dot]com
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=j1o2h3n&theme=dracula&show_icons=true&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j1o2h3n&theme=dracula&layout=compact&exclude_repo=j1o2h3n.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1o2h3n&theme=dracula&layout=compact&exclude_repo=j1o2h3n.github.io" />
 
-[![j1o2h3n's github stats](https://github-readme-stats.vercel.app/api?username=j1o2h3n&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
