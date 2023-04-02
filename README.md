@@ -4,7 +4,7 @@
 **j1o2h3n/j1o2h3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=j1o2h3n&theme=dracula&show_icons=true&count_private=true" />
+
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working for PBC
@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1o2h3n&theme=dracula&layout=compact&exclude_repo=j1o2h3n.github.io" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1o2h3n&theme=dracula&layout=compact&exclude_repo=j1o2h3n.github.io" />
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=j1o2h3n&theme=dracula&show_icons=true&count_private=true" />
 
 
 
