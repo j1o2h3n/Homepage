@@ -7,7 +7,7 @@
 - 🏫 I graduated from BJUT
 - 🏦 I’m currently working for bank
 - 👦 I’m currently an algorithm and development engineer 
-- 📫 jiangxiangheng[at]gmail[dot]com
+- 📫 Contact me via email: jiangxiangheng[at]gmail[dot]com
 
 <div style="display: flex;">
   <img align="absbottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1o2h3n&theme=dracula&layout=compact&exclude_repo=j1o2h3n.github.io" style="flex: 1;" height="180" />
