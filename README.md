@@ -4,9 +4,9 @@
 **j1o2h3n/j1o2h3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
-
-- 🔭 I’m currently working for PBC
-- 🌱 I’m currently an algorithm and development engineer 
+- 🏫 I graduated from BJUT
+- 🏦 I’m currently working for bank
+- 👦 I’m currently an algorithm and development engineer 
 - 📫 jiangxiangheng[at]gmail[dot]com
 
 <div style="display: flex;">
