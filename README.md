@@ -6,7 +6,7 @@
 
 - 🏫 I graduated from BJUT
 - 🏦 I’m currently working for bank
-- 👨‍💻 I’m currently an algorithm and development engineer 
+- 👨‍💻 I’m an AI algorithm and development engineer 
 - 📫 You can contact me via email at: jiangxiangheng[at]gmail[dot]com
 
 <div style="display: flex;">
